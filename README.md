@@ -6,11 +6,11 @@
 
 #### Connect With Me
 <p left="center">
-<a href="https://www.linkedin.com/in/0xkanak/">
+<a href="https://www.linkedin.com/in/nagaxor/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
 </p>
-<a href="https://twitter.com/0xkanak">
+<a href="https://twitter.com/nagaxor">
   <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 </a>
 </p>
