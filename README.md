@@ -3,6 +3,11 @@
 <h3 align="center">Penetration Tester | Bug Bounty Hunter | Offensive Security Researcher</h3>
 
 <p align="center">
+  <a href="https://nvd.nist.gov/vuln/detail/CVE-2025-25485"><img src="https://img.shields.io/badge/CVE--2025--25485-Published-red?style=for-the-badge&logo=cve&logoColor=white" /></a>
+  <a href="https://nvd.nist.gov/vuln/detail/CVE-2025-25486"><img src="https://img.shields.io/badge/CVE--2025--25486-Published-red?style=for-the-badge&logo=cve&logoColor=white" /></a>
+</p>
+
+<p align="center">
   📍 Dhaka, Bangladesh &nbsp;|&nbsp; 🎓 B.Sc. in Software Engineering (Cyber Security), Daffodil International University
 </p>
 
@@ -12,10 +17,21 @@
 
 Offensive security professional focused on vulnerability assessment, penetration testing, API and mobile application testing, and bug bounty hunting. I enjoy doing original vulnerability research and sharing what I learn.
 
+- 🐞 **2 CVEs** credited in open-source projects (details below)
 - 🎯 Goal: specialize in exploit development and custom offensive tooling, and grow into a red-team lead
 - 🔍 Focus: web, API and mobile application security, red teaming, zero-day research
-- 🌱 Currently working towards: **OSCP**
-- 📫 Reach me: [swe.rayhan@proton.me](mailto:swe.rayhan@proton.me)
+- 📫 Reach me: [swe.rayhan@gmail.com](mailto:swe.rayhan@gmail.com)
+
+---
+
+## 🐞 CVEs
+
+| CVE ID | Details |
+|---|---|
+| [CVE-2025-25485](https://nvd.nist.gov/vuln/detail/CVE-2025-25485) | Discovered and responsibly disclosed in an open-source project |
+| [CVE-2025-25486](https://nvd.nist.gov/vuln/detail/CVE-2025-25486) | Discovered and responsibly disclosed in an open-source project |
+
+<!-- TODO: proti CVE te project er nam, vulnerability type (XSS/SQLi/RCE...) ar write-up link add koro. NVD page dekhe milie nao. -->
 
 ---
 
@@ -51,38 +67,10 @@ Offensive security professional focused on vulnerability assessment, penetration
 
 ---
 
-## Certifications
-
-| Certification | Issuer | Date |
-|---|---|---|
-| OSCP | OffSec | In progress |
-| API Security Certified Professional (ASCP) | APIsec University | Oct 2026 |
-| Certified Penetration Testing Professional (CPENT) | EC-Council | Oct 2026 |
-| Burp Suite Certified Practitioner (BSCP) | PortSwigger | Sep 2026 |
-| Certified Cyber Security Analyst (C3SA) | CyberWarFare Labs | 2023 |
-| API Penetration Testing | APIsec University | 2023 |
-| Certified Ethical Hacker (C\|EH) | EC-Council | 2022 |
-
----
-
 ## Achievements
 
-- 🐞 **2 CVEs** in open-source projects: [CVE-2025-25485](https://nvd.nist.gov/vuln/detail/CVE-2025-25485), [CVE-2025-25486](https://nvd.nist.gov/vuln/detail/CVE-2025-25486)
 - 🏆 **Bug Bounty Hall of Fame:** SpaceX, Tesla, Eero, AT&T, American Airlines and others
 - 🎮 **Top 1% globally** on TryHackMe ([nagaxor](https://tryhackme.com/p/nagaxor))
-- 🥉 National Cyber Security Hackathon 2023: 2nd runner-up among 100 teams
-- 💻 ICPC Asia Dhaka Regional: 37th place
-- 💻 Takeoff Programming Contest: 3rd place
-
----
-
-## Public Speaking (2025)
-
-- *Inside the Hacker's Mind: Offensive Security Unleashed*: CUET
-- *Advanced Web Application Penetration Testing*: Daffodil International University
-- *Bug Bounty Hunting Approach*: JKKNIU
-- *Careers in Offensive Security*: CSTU
-- *Careers in Cybersecurity* (Cyber Arena Seminar 2025): Dhaka International University
 
 ---
 
