@@ -7,8 +7,7 @@
 
 - 🔍 Focus: Web Application Security, Recon Automation, Bug Bounty  <!-- TODO: nijer focus area likho -->
 - 🌱 Currently learning: TODO (e.g. API security, Active Directory, Cloud security)
-- 🛠️ Building: [rengine](https://github.com/nagaxor/rengine) <!-- TODO: public hole link kaj korbe -->
-- 📫 Reach me: TODO-your-email@example.com
+- 📫 Reach me: swe.rayhan@proton.me
 
 ---
 
