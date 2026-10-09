@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="kanak.gif" alt="Kanak" width="600" />
+  <img src="kanak_banner.gif" alt="Kanak" width="500" />
 </p>
 
 <h1 align="center">Hello 👋, I'm Rayhan Kanak</h1>
