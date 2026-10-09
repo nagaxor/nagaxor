@@ -20,7 +20,7 @@ Offensive security professional focused on vulnerability assessment, penetration
 - 🐞 **2 CVEs** credited in open-source projects (details below)
 - 🎯 Goal: specialize in exploit development and custom offensive tooling, and grow into a red-team lead
 - 🔍 Focus: web, API and mobile application security, red teaming, zero-day research
-- 📫 Reach me: [swe.rayhan@gmail.com](mailto:swe.rayhan@gmail.com)
+- 📫 Reach me: [swe.rayhan@proton.me](mailto:swe.rayhan@proton.me)
 
 ---
 
