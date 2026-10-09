@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="kanak.gif" alt="Kanak" width="400" />
+</p>
+
 <h1 align="center">Hello 👋, I'm Rayhan Kanak</h1>
 
 <h3 align="center">Penetration Tester | Bug Bounty Hunter | Offensive Security Researcher</h3>
@@ -8,7 +12,7 @@
 </p>
 
 <p align="center">
-  📍 Parallel universe &nbsp;|&nbsp; 🎓 B.Sc. in Software Engineering (Cyber Security), Daffodil International University
+  📍 Dhaka, Bangladesh &nbsp;|&nbsp; 🎓 B.Sc. in Software Engineering (Cyber Security), Daffodil International University
 </p>
 
 ---
@@ -20,6 +24,7 @@ Offensive security professional focused on vulnerability assessment, penetration
 - 🐞 **2 CVEs** credited in open-source projects (details below)
 - 🎯 Goal: specialize in exploit development and custom offensive tooling, and grow into a red-team lead
 - 🔍 Focus: web, API and mobile application security, red teaming, zero-day research
+- 🌱 Currently working towards: **OSCP**
 - 📫 Reach me: [swe.rayhan@proton.me](mailto:swe.rayhan@proton.me)
 
 ---
