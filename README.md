@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  📍 Dhaka, Bangladesh &nbsp;|&nbsp; 🎓 B.Sc. in Software Engineering (Cyber Security), Daffodil International University
+  📍 Parallel universe &nbsp;|&nbsp; 🎓 B.Sc. in Software Engineering (Cyber Security), Daffodil International University
 </p>
 
 ---
