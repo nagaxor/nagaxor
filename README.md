@@ -1,82 +1,87 @@
-<table width="100%">
-  <tr>
-    <td valign="top">
-      <h3>Hi, I'm <a href="https://linkedin.com/in/nagaxor">Rayhan</a> 👋</h3>
-      <ul>
-        <li>💻 Penetration Tester &amp; Bug Bounty Hunter</li>
-        <li>🐞 2 CVEs in open-source projects</li>
-        <li>🌱 Working towards OSCP</li>
-      </ul>
-    </td>
-    <td align="right" valign="top" width="190">
-      <img src="kmark.gif" alt="K" width="170" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="kanak.gif" alt="Kanak" width="600" />
+</p>
 
-<h4 align="center">About Me</h4>
+<h1 align="center">Hello 👋, I'm Rayhan Kanak</h1>
+
+<h3 align="center">Penetration Tester | Bug Bounty Hunter | Offensive Security Researcher</h3>
 
 <p align="center">
-  <sub>Offensive security professional focused on vulnerability assessment, penetration testing, API and mobile application testing, and bug bounty hunting. I enjoy original vulnerability research, red teaming and zero-day research, and I actively work on certifications and security research to stay informed and up-to-date.</sub>
+  <a href="https://nvd.nist.gov/vuln/detail/CVE-2025-25485"><img src="https://img.shields.io/badge/CVE--2025--25485-Published-red?style=for-the-badge&logo=cve&logoColor=white" /></a>
+  <a href="https://nvd.nist.gov/vuln/detail/CVE-2025-25486"><img src="https://img.shields.io/badge/CVE--2025--25486-Published-red?style=for-the-badge&logo=cve&logoColor=white" /></a>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=nagaxor&label=Profile+views&color=84b817&style=flat" alt="Profile views" />
+<p align="center">
+  📍 Dhaka, Bangladesh &nbsp;|&nbsp; 🎓 B.Sc. in Software Engineering (Cyber Security), Daffodil International University
 </p>
 
-<h4>CVEs</h4>
+---
+
+## About Me
+
+Offensive security professional focused on vulnerability assessment, penetration testing, API and mobile application testing, and bug bounty hunting. I enjoy doing original vulnerability research and sharing what I learn.
+
+- 🐞 **2 CVEs** credited in open-source projects (details below)
+- 🎯 Goal: specialize in exploit development and custom offensive tooling, and grow into a red-team lead
+- 🔍 Focus: web, API and mobile application security, red teaming, zero-day research
+- 🌱 Currently working towards: **OSCP**
+- 📫 Reach me: [swe.rayhan@proton.me](mailto:swe.rayhan@proton.me)
+
+---
+
+## 🐞 CVEs
+
+| CVE ID | Details |
+|---|---|
+| [CVE-2025-25485](https://nvd.nist.gov/vuln/detail/CVE-2025-25485) | Discovered and responsibly disclosed in an open-source project |
+| [CVE-2025-25486](https://nvd.nist.gov/vuln/detail/CVE-2025-25486) | Discovered and responsibly disclosed in an open-source project |
+
+<!-- TODO: proti CVE te project er nam, vulnerability type (XSS/SQLi/RCE...) ar write-up link add koro. NVD page dekhe milie nao. -->
+
+---
+
+## Profiles
 
 <p>
-  <a href="https://nvd.nist.gov/vuln/detail/CVE-2025-25485"><img src="https://img.shields.io/badge/CVE--2025--25485-Published-red?style=flat-square" /></a>
-  <a href="https://nvd.nist.gov/vuln/detail/CVE-2025-25486"><img src="https://img.shields.io/badge/CVE--2025--25486-Published-red?style=flat-square" /></a>
-</p>
-<!-- TODO: proti CVE er project er nam, vulnerability type ar write-up link thakle ekhane add koro -->
-
-<h4>Profiles</h4>
-
-<p>
-  <a href="https://tryhackme.com/p/nagaxor"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/nagaxor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/nagaxor"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://tryhackme.com/p/nagaxor"><img src="https://img.shields.io/badge/TryHackMe-Top_1%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/nagaxor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/nagaxor"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <!-- TODO: username dao, tarpor comment tule dao
-  <a href="https://hackerone.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white" /></a>
-  <a href="https://bugcrowd.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Bugcrowd-F26822?style=flat-square&logo=bugcrowd&logoColor=white" /></a>
-  <a href="https://app.intigriti.com/profile/YOUR_USERNAME"><img src="https://img.shields.io/badge/Intigriti-161A36?style=flat-square&logoColor=white" /></a>
+  <a href="https://hackerone.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white" /></a>
+  <a href="https://bugcrowd.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" /></a>
+  <a href="https://app.intigriti.com/profile/YOUR_USERNAME"><img src="https://img.shields.io/badge/Intigriti-161A36?style=for-the-badge&logoColor=white" /></a>
   -->
 </p>
 
-<h4>Programming Languages</h4>
+---
+
+## Skills
+
+**Security:** Vulnerability Assessment & Penetration Testing · Source Code Analysis · API Testing · Mobile App Pentesting · Log Monitoring & Threat Hunting · PCI DSS · Red Teaming
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <!-- TODO: tools add koro (nmap, ffuf, nuclei, Metasploit, etc.) -->
 </p>
 
-<h4>Security Tools</h4>
+**Fundamentals:** Computer Networking · Operating Systems · Data Structures & Algorithms · Cryptography · Databases
 
-<p>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
-  <!-- TODO: nijer use kora tools add koro (nmap, ffuf, nuclei, Metasploit...) -->
-</p>
+---
 
-<h4>Achievements</h4>
+## Achievements
 
-<ul>
-  <li>🏆 Bug Bounty Hall of Fame: SpaceX, Tesla, Eero, AT&amp;T, American Airlines and others</li>
-  <li>🎮 Top 1% globally on <a href="https://tryhackme.com/p/nagaxor">TryHackMe</a></li>
-</ul>
+- 🏆 **Bug Bounty Hall of Fame:** SpaceX, Tesla, Eero, AT&T, American Airlines and others
+- 🎮 **Top 1% globally** on TryHackMe ([nagaxor](https://tryhackme.com/p/nagaxor))
 
-<h4>Contact</h4>
+---
 
-<p>
-  📫 <a href="mailto:swe.rayhan@proton.me">swe.rayhan@proton.me</a> &nbsp;|&nbsp; 📍 Dhaka, Bangladesh
-</p>
+## GitHub Stats
 
-<h4>GitHub Stats</h4>
-
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=nagaxor&show_icons=true&theme=dark&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagaxor&layout=compact&theme=dark&hide_border=true" />
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nagaxor&show_icons=true&theme=dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagaxor&layout=compact&theme=dark&hide_border=true" />
 </p>
